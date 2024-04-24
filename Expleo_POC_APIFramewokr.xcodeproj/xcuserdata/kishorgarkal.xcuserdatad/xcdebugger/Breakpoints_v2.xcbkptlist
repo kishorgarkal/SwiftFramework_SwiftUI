@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "375DD5B2-172B-4467-9FB9-2F4CFA24488D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD274717-A8F7-4018-9A32-288BEAE25B18"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchRecipes(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7377B2A-D185-447E-BFA9-C6650904AF7F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchRecipes(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7377B2A-D185-447E-BFA9-C6650904AF7F - 47a89774272b551a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Expleo_POC_APIFramewokr.RecipeResponse, Swift.Error&gt;) -&gt; () in Expleo_POC_APIFramewokr.RecipeListViewModel.fetchRecipes(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "Expleo_POC_APIFramewokr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishorgarkal/Desktop/Expleo_POC_APIFramewokr/Expleo_POC_APIFramewokr/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30">
+               </Location>
+               <Location
+                  uuid = "C7377B2A-D185-447E-BFA9-C6650904AF7F - 1b024e1e6f8b6157"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Expleo_POC_APIFramewokr.RecipeResponse, Swift.Error&gt;) -&gt; () in Expleo_POC_APIFramewokr.RecipeListViewModel.fetchRecipes(completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "Expleo_POC_APIFramewokr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishorgarkal/Desktop/Expleo_POC_APIFramewokr/Expleo_POC_APIFramewokr/RecipeViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5D426CC-BDD9-4AA2-A7B4-E91CD57ABABF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchRecipes(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C016154-F647-43A3-BC1D-1A93D941AE6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59378B6B-023F-4205-8766-0602BEE3EF83"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "59378B6B-023F-4205-8766-0602BEE3EF83 - aaf3900c13bc4848"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Expleo_POC_APIFramewokr.Recipe) -&gt; SwiftUI.NavigationLink&lt;Expleo_POC_APIFramewokr.RecipeRow, Expleo_POC_APIFramewokr.RecipeDetailView&gt; in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;Expleo_POC_APIFramewokr.ActivityIndicator, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Expleo_POC_APIFramewokr.RecipeListView.body.getter : some"
+                  moduleName = "Expleo_POC_APIFramewokr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishorgarkal/Desktop/Expleo_POC_APIFramewokr/Expleo_POC_APIFramewokr/RecipeListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21">
+               </Location>
+               <Location
+                  uuid = "59378B6B-023F-4205-8766-0602BEE3EF83 - 60db4d0e74d4c42f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; Expleo_POC_APIFramewokr.RecipeRow in closure #1 (Expleo_POC_APIFramewokr.Recipe) -&gt; SwiftUI.NavigationLink&lt;Expleo_POC_APIFramewokr.RecipeRow, Expleo_POC_APIFramewokr.RecipeDetailView&gt; in closure #1 () -&gt; SwiftUI._ConditionalContent&lt;Expleo_POC_APIFramewokr.ActivityIndicator, &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onAppear(perform: Swift.Optional&lt;() -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in Expleo_POC_APIFramewokr.RecipeListView.body.getter : some"
+                  moduleName = "Expleo_POC_APIFramewokr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishorgarkal/Desktop/Expleo_POC_APIFramewokr/Expleo_POC_APIFramewokr/RecipeListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00B3A05C-0EEE-4831-8F1F-5DF0DBD7E121"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C824DA90-9BD8-494D-BEAF-6F3267B86DE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42C2787B-391B-4073-9E9D-3723DB36124D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchRecipes()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D55F963-478F-4CAF-9A1A-E3178D71DDD7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchRecipes()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D55F963-478F-4CAF-9A1A-E3178D71DDD7 - e00cc40939316f9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Expleo_POC_APIFramewokr.RecipeListView.fetchRecipes() -&gt; ()"
+                  moduleName = "Expleo_POC_APIFramewokr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishorgarkal/Desktop/Expleo_POC_APIFramewokr/Expleo_POC_APIFramewokr/RecipeListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48">
+               </Location>
+               <Location
+                  uuid = "9D55F963-478F-4CAF-9A1A-E3178D71DDD7 - 17d1179e05215849"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Expleo_POC_APIFramewokr.RecipeListView.fetchRecipes() -&gt; ()"
+                  moduleName = "Expleo_POC_APIFramewokr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishorgarkal/Desktop/Expleo_POC_APIFramewokr/Expleo_POC_APIFramewokr/RecipeListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51F4C6A0-8836-4DAB-8863-261E62E45EFC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeRow.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "loadImage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51F4C6A0-8836-4DAB-8863-261E62E45EFC - afc01d5ec6cbf736"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Expleo_POC_APIFramewokr.RecipeRow.loadImage() -&gt; ()"
+                  moduleName = "Expleo_POC_APIFramewokr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishorgarkal/Desktop/Expleo_POC_APIFramewokr/Expleo_POC_APIFramewokr/RecipeRow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49">
+               </Location>
+               <Location
+                  uuid = "51F4C6A0-8836-4DAB-8863-261E62E45EFC - 46b9f1f4ab4ac322"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.UIImage&gt;) -&gt; () in Expleo_POC_APIFramewokr.RecipeRow.loadImage() -&gt; ()"
+                  moduleName = "Expleo_POC_APIFramewokr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kishorgarkal/Desktop/Expleo_POC_APIFramewokr/Expleo_POC_APIFramewokr/RecipeRow.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4DBF7F7-B669-4CEC-A92B-F679B57D7885"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchRecipes(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CCB73CC-8FBF-4984-BFFB-3FB0F0D6F87A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Expleo_POC_APIFramewokr/RecipeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchRecipes(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
